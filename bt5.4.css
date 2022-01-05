@@ -1,0 +1,38 @@
+.hinhanh img{
+    width: 1494px;
+    margin-left: -10px;
+    margin-top: -10px;
+    
+}
+.cuoi{
+    display: flex;
+}
+.cuoi .bangtrai li{
+    list-style: none;
+    color: blue;
+    height: 25px;
+    width: 150px;
+    margin-left: -47px;
+    border: 1px solid rgb(49, 95, 225);
+}
+.bangphai img{
+ /* padding-left: 230px; */
+    margin-top: -10px;
+    width: 180px;
+}
+.bangphai p{
+    color: red;
+    font-size: 20px;
+    margin-top: -5px;
+    /* padding-left: 210px; */
+}
+.bangtrai{
+    margin-top: -15px;
+}
+.bangphai{
+    margin-top: -15px;
+    text-align: center;
+    border-bottom: 2px solid red;
+    margin: 0 auto;
+    width: 800px;
+}
